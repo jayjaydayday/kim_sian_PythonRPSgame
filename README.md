@@ -7,7 +7,7 @@
 Pick your weapon and play against the computer - you will only get a virtual sting if you lose!
 
 #### Prerequisties
-All you need is <span style="color: #0000FF">Python 3</span> to play.
+All you need is Python 3 to play.
 
 #### Usage 
 Clone the project, cd to your directory/download, and run the game.py file in a Python 3 shell (Terminal on a mac / Linux, Windows command prompt).
